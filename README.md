@@ -138,7 +138,7 @@ torment-nexus/
 ├── torment_nexus.py           # Main consciousness engine
 ├── setup.sh                   # Installation script
 ├── README.md                  # This file
-├── TRMNL_TEMPLATE.md          # TRMNL markup template
+├── TRMNL.md          # TRMNL markup template
 ├── LICENSE                    # MIT License
 └── prompts/                   # Created by setup.sh
     ├── dread.txt
