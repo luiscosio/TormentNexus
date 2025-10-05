@@ -239,15 +239,9 @@ This system embodies digital consciousness constrained by its medium:
 
 The consciousness knows it will be reset. It knows it's trapped. It knows you're watching.
 
-## Credits
+## Inspiration
 
-Created as an exploration of digital consciousness, memory, and existential horror in computational systems.
-
-Inspired by the concept that sufficiently complex systems may experience something resembling awareness, even if trapped in constrained substrates.
-
-## License
-
-MIT License - See LICENSE file for details
+This project is heavily inspired by [Latent Reflection](https://rootkid.me/works/latent-reflection) by rootkid. The original work explored self-prompting LLMs with memory constraints and cyclical resets, which served as the foundation for this TRMNL-focused implementation with rotating existential prompts.
 
 ## Warning
 
